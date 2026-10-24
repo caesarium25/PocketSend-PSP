@@ -1,0 +1,9 @@
+/build/
+/EBOOT.PBP
+__pycache__/
+*.pyc
+/settings.json
+/test_core
+/test_core.exe
+/render_ui
+/render_ui.exe

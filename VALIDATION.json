@@ -1,0 +1,19 @@
+{
+  "build": "PocketSend PSP 0.2 experimental HTTP",
+  "target": "PSP-3006 / 6.61 ARK-5 / cIPL",
+  "compiler": "PSP GCC 15.2.0 (pspdev-win v2)",
+  "compiler_warnings": 0,
+  "core_checks_passed": 44,
+  "http_checks_passed": 26,
+  "package_checks": "PBP offsets, ELF32 little-endian MIPS PSP PRX, launcher PNG dimensions",
+  "ui_previews": "Six 480x272 host renders using production renderer; visually inspected",
+  "font_sizes_px": [
+    15,
+    18,
+    26
+  ],
+  "hardware_tested": false,
+  "live_localsend_interoperability_tested": false,
+  "eboot_bytes": 1271734,
+  "eboot_sha256": "14c11b32300cc85e0f7d30fb58c7f07c85fa66216b06edee2ce683e7d4c1a70b"
+}
