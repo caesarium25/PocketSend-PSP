@@ -12,8 +12,10 @@
     18,
     26
   ],
-  "hardware_tested": false,
-  "live_localsend_interoperability_tested": false,
+  "hardware_tested": true,
+  "live_localsend_interoperability_tested": null,
   "eboot_bytes": 1271734,
-  "eboot_sha256": "14c11b32300cc85e0f7d30fb58c7f07c85fa66216b06edee2ce683e7d4c1a70b"
+  "eboot_sha256": "14c11b32300cc85e0f7d30fb58c7f07c85fa66216b06edee2ce683e7d4c1a70b",
+  "hardware_test_evidence": "User reported it works on their PSP-3006, 2026-10-25; exact scenarios unspecified",
+  "interoperability_note": "Specific live transfer scenarios not confirmed separately"
 }

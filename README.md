@@ -15,9 +15,10 @@ An actual PSP `EBOOT.PBP` is included in the install ZIP on the Releases page. I
 70 automated checks pass: 44 for names, paths, metadata, limits, query handling
 and SHA-256; 26 for HTTP framing, fragmented input, chunked bodies and truncation.
 
-**It has not yet been launched on a physical PSP or tested against a running
-LocalSend app.** These are source-level and native host checks, not hardware
-certification. The first launch and transfer test are still necessary.
+**User-tested on PSP:** the owner reported that it works on their PSP-3006
+(6.61 ARK-5 with cIPL) on 25 October 2026. Specific transfer directions, file
+sizes, and recovery scenarios were not recorded. The 70 automated checks run
+on the host; complete LocalSend interoperability coverage remains unverified.
 
 ## Install and first test
 
